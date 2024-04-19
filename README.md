@@ -18,7 +18,7 @@ Facial-Recognition-Attendance-System_with_computer_vision/
 └── requirements.txt      # File specifying required Python packages
 ```
 
-![Iamage](https://youtu.be/sz25xxF_AVE)
+![Iamage]([https://youtu.be/sz25xxF_AVE](https://media.istockphoto.com/id/872707982/de/foto/facial-recognition-system-konzept.jpg?s=1024x1024&w=is&k=20&c=ADw4_BzJOj_CY8lXjayyFdNYQ0XavF9nsqnFGsZz67A=))
 
 
 ## Functionality
